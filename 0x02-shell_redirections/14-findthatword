@@ -1,0 +1,2 @@
+#!/bin/bash
+lines=$(grep -w root /etc/passwd) echo "$lines"
